@@ -2,7 +2,7 @@
 通过调用api接口达到B站BV号转AV号
 
 # 使用方法
-安装python，双击运行，输入bv号
+安装python，双击main.py运行，输入bv号
 
 # 怎么找bv号？
 **电脑端**：
