@@ -1,5 +1,5 @@
 # bv号转av号
-通过调用api接口达到B站BV号转AV号
+通过调用api接口达到B站BV号转AV号，需要网络连接
 
 # 使用方法
 安装python，双击main.py运行，输入bv号
