@@ -21,8 +21,3 @@ print("程序制作者:fsquirt,UID:349511867")
 print("感谢你的使用")
 
 input()
-
-
-
-
-
